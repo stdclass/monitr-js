@@ -1,0 +1,13 @@
+{
+    "name": "monitr",
+    "description": "Monitr.io Javascript Client Library",
+    "author": "Phillip Dornauer <phillip.dornauer@gmail.com>",
+    "homepage": "http://monitr.io",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/phillipdornauer/monitr-js"
+    },
+    "scripts": {
+        "smoosh": "smoosh build/config.json"
+    }    
+}
